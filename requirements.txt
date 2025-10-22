@@ -5,3 +5,4 @@ flask-marshmallow
 marshmallow
 PyMySQL
 python-dotenv
+flask-migrate
