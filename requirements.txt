@@ -1,0 +1,7 @@
+Flask
+flask-sqlalchemy
+flask-bcrypt
+flask-marshmallow
+marshmallow
+PyMySQL
+python-dotenv
